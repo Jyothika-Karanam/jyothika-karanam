@@ -1,3 +1,4 @@
+![logo](https://github.com/Jyothika-Karanam/jyothika-karanam/blob/main/Blue%20Minimalist%20Personal%20Branding%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm jyothika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://tse3.mm.bing.net/th?id=OIP.m1Bh5gV6NC4_yfjdzNvNVwHaD_&pid=Api&P=0&h=180.gif" align="right alt="coding" width="400">
